@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=list
+comment0.target=void\ readAll(java.util.List)
+comment0.text=\ Different\ models\ will\ require\ different\ read\ and\ write\ methods.\ Here\ is\ an\ example\ 'loadAll'\ method\ \r\nwhich\ is\ passed\ the\ target\ list\ object\ to\ populate.
+comment1.params=BookID
+comment1.target=Book\ getById(int)
+comment2.params=BookID
+comment2.target=void\ deleteById(int)
+comment3.params=book
+comment3.target=void\ save(Book)
+numComments=4
